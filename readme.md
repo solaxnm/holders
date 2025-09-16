@@ -18,7 +18,7 @@
 
 A modern, mobile-first React application for comprehensive analysis of Solana SPL token holders. Features professional UI/UX design, detailed holder analytics, and powerful data export capabilities. Optimized for Pump.fun launchpad tokens with automatic AMM pool detection.
 
-<img src="./public/screenshot.png" alt="App screenshot" width="600" />
+<img src="./public/screen.png" alt="App screenshot" width="600" />
 
 ### ✨ Key Features
 
